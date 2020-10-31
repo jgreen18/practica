@@ -1,0 +1,1003 @@
+ /*ids*/
+ #home{
+
+ }
+ #resume{
+
+ }
+ 
+ #skills{
+
+ }
+ #about{
+
+ }
+ #portfolio{
+
+ }
+ #testimonial{
+
+ }
+
+
+
+ /*menu	*/
+		.derechos{
+			text-align: center;
+			font-size: 1.3em;
+		}
+
+		.list{
+
+			margin-bottom: 2.8em;
+			line-height: 2em;
+			text-decoration: none;
+			font-size: 1.5em;
+		}
+		.list ul{
+			list-style: none;
+
+
+		}
+		.list a{
+			text-decoration: none;
+			color: black;
+
+
+		}
+
+		.menu{
+			/*background-color: blue;*/
+			min-height: 100%;
+			width: 20%;
+			margin: 0px;
+			position: fixed;
+			float: left;
+			box-shadow: 0 0.1875rem 1rem rgba(34,34,34,.24);
+			padding-left: 10px;
+		}
+
+/*derecha*/
+	/*Presentacion*/
+		.der{
+			float: right;
+			/*background-color: red;*/
+			min-height: 25em;
+			width: 80%;
+			margin: 0px;
+			padding: 0px;
+			position: relative;
+			/*overflow: hiddsen;*/
+		}
+		
+
+		.img{
+			width: 100%;
+			height: 601px;
+			overflow: hidden;
+			
+		}
+		.img img {
+
+			width: 100%;
+			padding: 0px;
+			margin: 0px;
+			filter: blur(1.5px);
+			
+		}
+		.im{
+			width: 80%;
+			height: 641px;
+			background-color: white;
+			/*margin: auto;*/
+			left: 120px;
+			top: 100px;
+			position: absolute;
+			
+			
+		}
+
+		.imc{
+			width: 90%;
+			/*border-style: solid;*/
+			min-height: 3em;
+			margin: auto;
+			margin-top: 5em;
+			/*position: relative;*/
+		}
+		.iminf{
+			margin left: 5px;
+		}
+
+		.imimg{
+			float: left;
+			width: 372px;
+			/*border-style: solid;*/
+			min-height: 3em;
+			margin: auto;
+			margin-right: 10px;
+			
+			/*position: relative;*/
+		}
+		.form{
+			text-align: left;
+			width: 30%;
+			float: left;
+
+
+		}
+		.form p,h3{
+			margin-top: 1px;
+			padding: 0px;
+			display: inline-block;
+		}
+		.imimg img{
+		margin top: 3em;
+		}
+	/*about me*/
+		.about{
+			float: right;
+			/*background-color:blue;*/
+			
+			min-height: 16em;
+			
+			width: 100%;
+			padding-top:13em;
+			text-align: center;
+		}
+		.about h1{
+			
+			font-size: 2.5em;
+			margin-bottom: 3px;
+		}
+
+		.about label{
+			text-align: center;
+			margin-top: 0px;
+			
+			margin-bottom:2em;
+		}
+
+		.liner{
+			margin-top: 2em;
+			background-color: #f54ea2;
+			min-height: 8px;
+			width: 3em;
+			margin: auto ;
+		}
+
+		.aboutiz{
+			float: left;
+			width: 45%;
+			padding: .80em;
+			text-align: justify;
+			height: 3em;
+
+
+		}
+		.aboutiz p{
+			padding-left: 61px;
+			
+			
+
+		}
+
+		.aboutdr{
+			float: right;
+			width: 45%;
+			padding: .80em;
+			text-align: left;
+
+		}
+		.aboutdr p{
+			padding-right: 61px;
+			
+			
+
+		}
+		.about img{
+			text-align: center;
+		}
+		.aboutcenter{
+			width: 100%;
+			/*background-color: blue;*/
+			min-height: 15em;
+
+
+		}
+
+		.aboutimg{
+			margin-top: 2em;
+			/*background-color: green;*/
+			min-height: 8px;
+			width: auto;
+			margin: auto ;
+			
+
+		}
+			.boton{
+				width:15%;
+				margin:auto;
+				margin-top: 2em;
+				padding: 10px;
+				background-color:#41228e;
+				border-radius:5%;  
+			}
+			.boton a{
+				color: white; 
+				text-decoration: none;
+			}
+	/*experience*/
+
+			.experience{
+						
+				float: left;
+				/*background-color:green;*/
+					height: 1150px;
+					
+					
+					width: 100%;
+					padding-top:5em;
+					text-align: center;
+					position: relative;
+
+			}
+
+			.experience h1{
+					
+					font-size: 2em;
+					margin-bottom: 3px;
+				}
+
+			.experience label{
+					text-align: center;
+					margin-top: 0px;
+					
+					margin-bottom:2em;
+				}
+
+				.ex{
+					position: relative;
+					top:2em;
+					
+					margin-top: 3em;
+					border-style: solid;
+					border-color: pink;
+					width: 25%;
+					min-height:5em;
+					/*background-color: red;*/
+					margin: auto;
+
+				}
+				.ex1{
+					position: relative;
+					top:2em;
+					
+					margin-top: 3em;
+					border-style: solid;
+					border-color: pink;
+					border-width: 5px;
+					width: 1px;
+					min-height:50em;
+					background-color: pink;
+					margin: auto;
+
+				}
+				.ex2{
+					position: relative;
+				    top: -700px;
+				    left: 80px;
+					
+					border-style: solid;
+					border-color: gray;
+					
+					width: 40%;
+					min-height:3em;
+					/*background-color: pink;*/
+				}
+				.ex22{
+					position: relative;
+				    top: -789px;
+				    left: 625px;
+				    background-color: #f54ea2;
+					
+					border-style: solid;
+					border-color: #f54ea2;
+					
+					width: 7%;
+
+
+					
+				}
+				.exp2{
+					margin: 10px;
+					font-size: 15px;
+					background-color: #c5c0c042;
+				}
+
+				.ex3{
+					position: relative;
+				    top: -650px;
+				    left: 625px;
+					
+					border-style: solid;
+					border-color: gray;
+					
+					width: 40%;
+					min-height:3em;
+					/*background-color: pink;*/
+
+				}
+				.ex33{
+					position: relative;
+				    top: -739px;
+		    		left: 470px;
+					
+					background-color: #f54ea2;
+					
+					border-style: solid;
+					border-color: #f54ea2;
+					
+					width: 7%;
+
+				}
+				.ex4{
+					position: relative;
+				    top: -600px;
+				    left: 80px;
+					
+					border-style: solid;
+					border-color: gray;
+					
+					width: 40%;
+					min-height:3em;
+					/*background-color: pink;*/
+				}
+				.ex44{
+					position: relative;
+				    top: -690px;
+				    left: 625px;
+					
+					background-color: #f54ea2;
+					
+					border-style: solid;
+					border-color: #f54ea2;
+					
+					width: 7%;
+				}
+
+				.ex5{
+					position: relative;
+				    top: -550px;
+				    left: 625px;
+					
+					border-style: solid;
+					border-color: gray;
+					
+					width: 40%;
+					min-height:3em;
+					/*background-color: pink;*/
+
+				}
+				.ex55{
+					position: relative;
+				    top: -640px;
+				    left: 440px;
+					
+					background-color: #f54ea2;
+					
+					border-style: solid;
+					border-color: #f54ea2;
+					
+					width: 10%;
+
+				}
+
+	/*ev*/
+		.ev{
+				/*position: relative;*/
+
+		/*background-color:blue;*/
+			
+			float: left;
+			
+			width: 100%;
+			padding-top:5em;
+			text-align: center;
+			height: 30em;
+
+			}
+
+			.ev h1{
+					
+					font-size: 2em;
+					margin-bottom: 3px;
+				}
+
+			.ev label{
+					text-align: center;
+					margin-top: 0px;
+					
+					margin-bottom:2em;
+				}
+
+				.ev1{
+					padding: 2px;
+					position: relative;
+				    top: 38px;
+				    left: 70px;
+				    border-style: solid;
+				    border-color: gray;
+				    width: 25%;
+					min-height:3em;
+					/*background-color: pink;*/
+
+				}
+				.ev11{
+					position: relative;
+					  top: 120px;
+	   				 left: 165px;
+					
+					background-color: #f54ea2;
+					
+					border-style: solid;
+					border-color: #f54ea2;
+					
+					width: 10%;
+
+				}
+
+				.lineo{
+					position: relative;
+					top:12em;
+					
+					margin-top: 3em;
+					border-style: solid;
+					border-color: pink;
+					border-width: 5px;
+					width: 80%;
+					min-height:1px;
+					background-color: pink;
+					margin: auto;
+
+				}
+				.ev2{
+					padding: 2px;
+					position: relative;
+				   top: 93px;
+    				left: 430px;
+				    border-style: solid;
+				    border-color: gray;
+				    width: 25%;
+					min-height:3em;
+					/*background-color: pink;*/
+
+				}
+				.ev22{
+					position: relative;
+					top: -140px;
+   					 left: 530px;
+					background-color: #f54ea2;
+					
+					border-style: solid;
+					border-color: #f54ea2;
+					
+					width: 10%;
+
+				}
+				.ev3{
+					padding: 2px;
+					    position: relative;
+					    top: -220px;
+					    left: 770px;
+				    border-style: solid;
+				    border-color: gray;
+				    width: 25%;
+					min-height:3em;
+					/*background-color: pink;*/
+
+				}
+				.ev33{
+					position: relative;
+					top: -145px;
+   					 left: 865px;
+					
+					background-color: #f54ea2;
+					
+					border-style: solid;
+					border-color: #f54ea2;
+					
+					width: 10%;
+
+				}
+	/*skills*/
+
+		.sk{
+					position: relative;
+
+			/*background-color:red;*/
+				
+				float: left;
+				
+				width: 100%;
+				padding-top:5em;
+				text-align: center;
+				min-height: 2em;
+				padding-bottom: 3em;
+
+				}
+
+				.sk h1{
+						
+						font-size: 4em;
+						margin-bottom: 5px;
+					}
+
+				.sk label{
+						text-align: center;
+						margin-top: 0px;
+						
+						margin-bottom:5em;
+					}
+
+					.linesk{
+						float: none;
+				margin-top: 2em;
+				background-color: #f54ea2;
+				min-height: 8px;
+				width: 3em;
+				margin: auto ;
+			}
+			.linesk1{
+						float: none;
+				background-color:#41228e;
+				min-height: 10px;
+				max-height: 10px;
+				width: 100%;
+				margin: auto ;
+				margin-left: 0px;
+				margin-top: 10px;
+				margin-bottom: 10PX;
+			}
+
+			.skiz{
+				float: left;
+				width: 45%;
+				min-height: 3em;
+				/*border-style: solid;*/
+				text-align: left;
+				margin-left: 2em;
+				margin-top: 3em;
+			}
+
+			.skdr{
+				float: right;
+				width: 45%;
+				min-height: 3em;
+			/*border-style: solid;*/
+			text-align: left;
+			margin-right: 2em; 
+			margin-top: 3em;
+
+			}		
+			.porc{
+				background-color: #f54ea2;
+				width: 6%;
+				margin-left: 70%;
+				/*padding-top: 3px;*/
+				font-size: 1em;
+				padding-left: 2px;
+				padding-right: 2px;
+				color: white;
+			}
+			.porc1{
+				background-color: #f54ea2;
+				width: 6%;
+				margin-left: 80%;
+				/*padding-top: 3px;*/
+				font-size: 1em;
+				padding-left: 2px;
+				padding-right: 2px;
+				color: white;
+			}
+			.porc2{
+				background-color: #f54ea2;
+				width: 6%;
+				margin-left: 60%;
+				/*padding-top: 3px;*/
+				font-size: 1em;
+				padding-left: 2px;
+				padding-right: 2px;
+				color: white;
+			}
+
+	/*expertise*/
+		.expert{
+				/*position: relative;*/
+
+		/*background-color:blue;*/
+			
+			float: left;
+			
+			width: 100%;
+			padding-top:5em;
+			text-align: center;
+			height: 30em;
+
+			}
+
+			.expert h1{
+					
+					font-size: 3em;
+					margin-bottom: 3px;
+				}
+
+			.expert label{
+					text-align: center;
+					margin-top: 0px;
+					
+					margin-bottom:2em;
+				}
+
+			.circu{
+				width: 30%;
+				min-height: 3em;
+				/*border-style: solid;*/
+				display: inline-block;
+
+			}
+
+	/*WORK PROCESS*/
+
+		.wp{
+						
+				float: left;
+				/*background-color:green;*/
+					/*height: 1150px;*/
+					
+					
+					width: 100%;
+					padding-top:5em;
+					text-align: center;
+					position: relative;
+
+			}
+
+			.wp h1{
+					
+					font-size: 2em;
+					margin-bottom: 3px;
+				}
+
+			.wp label{
+					text-align: center;
+					margin-top: 0px;
+					
+					margin-bottom:2em;
+				}
+
+			.wp1{
+				width: 10%;
+				min-height: 2em;
+				/*border-style: solid;*/
+				display: inline-block;
+				margin-top:  2em;
+			}
+			.wp1 img{
+				float: right;
+				margin-top: 2em;
+			}
+			.wp2{
+				float: left;
+				width: 80px;
+				min-height: 80px;
+				border-style: solid;
+				display: inline-block;
+				border-radius: 50%;
+				background-color: #f54ea2;
+			}
+			.wp2 img{
+				margin-right: 1em;
+				margin-top: 20px;
+
+				
+			}
+			.wp3{
+
+				float: left;
+				width: 80px;
+				min-height: 80px;
+				border-style: solid;
+				display: inline-block;
+				border-radius: 50%;
+				background-color: #41228e;
+			}
+			.wp3 img {
+				margin-right: 10px;
+  				  margin-top: 15px;
+			}
+
+	/*portfolio*/
+			.pt{
+						
+				float: left;
+				/*background-color:green;*/
+					
+					
+					
+					width: 100%;
+					padding-top:5em;
+					text-align: center;
+					position: relative;
+
+			}
+
+			.pt h1{
+					
+					font-size: 2em;
+					margin-bottom: 3px;
+				}
+
+			.pt label{
+					text-align: center;
+					margin-top: 0px;
+					
+					margin-bottom:2em;
+				}
+			.ptiz{
+				float: left;
+				margin-top: 2em;
+				width: 40%;
+				/*border-style: solid;*/
+				min-height: 4em;
+				display: inline-block;
+				margin-left:  5em;
+			}
+			.ptiz p{
+				text-align: left;
+				color: #f54ea2;
+			}
+			.ptiz h2{
+				text-align: left;
+				
+			}
+
+			.ptdr{
+				float: right;
+				margin-top: 2em;
+				width: 40%;
+				/*border-style: solid;*/
+				margin-right: 5em;
+				display: inline-block;
+			}	
+			.ptdr p{
+				color: #f54ea2;
+				text-align: left;
+			}
+			.ptdr h2{
+				text-align: left;
+				
+			}
+
+
+			.ptiz2{
+				position: relative;
+				float: none;
+				
+				width: 470px;
+				/*border-style: solid;*/
+				min-height: 4em;
+				display: inline-block;
+				margin-right: 2em;
+				z-index:1;
+			}
+			.ptiz1{
+				position: relative;
+				float: none;
+				
+				width: 470px;
+				/*border-style: solid;*/
+				min-height: 4em;
+				display: inline-block;
+				margin-right: 2em;
+				z-index: 3;
+			}
+			/*.ptiz1 img:hover{
+				display: none;
+				visibility: hidden;
+			}*/
+
+	/*Start project*/
+
+		.sp{
+							
+					float: left;
+					/*background-color:green;*/
+						
+						
+						
+						width: 100%;
+						margin-left: .9em;
+						padding-top:5em;
+						text-align: center;
+						position: relative;
+
+				}
+
+				.sp h1{
+						
+						font-size: 2em;
+						margin-bottom: 3px;
+					}
+
+
+				.boton1{
+					float: left;
+					width:15%;
+					margin:auto;
+					margin-top: 2em;
+					margin-left: 30em;
+					padding: 10px;
+					background-color:#f54ea2;
+					border-radius:5%;  
+					text-align: center;
+					display: block;
+					margin-bottom: 3em;
+				}
+				.boton1 a{
+					color: white; 
+					text-decoration: none;
+				}
+				.th1{
+					float: left;
+					width: 100%;
+					display:block;
+					background-color:#41228e;
+					color: white;
+
+				}
+				.th{
+					margin-left: 2em;
+					float: none;
+					width: 20%;
+					min-height: 3em;
+					/*background-color: red;*/
+					display: inline-block;
+				}
+
+	/*Testimonials*/
+
+		.test{
+							
+					float: left;
+					/*background-color:green;*/
+						
+						
+						
+						width: 100%;
+						margin-left: .9em;
+						padding-top:5em;
+						text-align: center;
+						position: relative;
+
+				}
+
+				.test h1{
+						
+						font-size: 2em;
+						margin-bottom: 3px;
+					}
+
+				.testiz {
+					margin-top: 2em;
+
+					float: left;
+					width: 570px;
+					/*border-style: solid;*/
+					min-height: 3em;
+					padding-top: 3em;
+					padding-left:1em; 
+
+
+					}	
+				.testdr {
+					margin-top:2em;
+					float: left;
+					width: 412px;
+					min-height: 3em;
+
+					/*border-style: solid;*/
+				
+
+						
+					}	
+
+	/*contact me*/
+
+		.come{
+							
+					float: left;
+					/*background-color:green;*/
+						
+						
+						
+						width: 100%;
+						margin-left: .9em;
+						padding-top:5em;
+						text-align: center;
+						position: relative;
+
+				}
+
+				.come h1{
+						
+						font-size: 2em;
+						margin-bottom: 3px;
+					}
+
+				.comec{
+					width: 90%;
+					min-height: 3em;
+					border-style: solid;
+					margin: auto;
+					margin-top: 3em;
+				}
+
+				.comeciz{
+
+					width: 35%;
+					min-height: 3em;
+					border-style: solid;
+					margin: auto;
+					display: inline-block;
+					float: left;
+					text-align: left;
+				}
+				/*.comeciz h3,h2{
+					color:#f54ea2; 
+				}
+*/
+				
+				.comecdr{
+					width: 60%;
+					min-height: 3em;
+					border-style: solid;
+					margin: auto;
+
+					display: inline-block;
+					/*float: right;*/
+				}
+
+				.comecdr input{
+					width: 60%;
+					min-height: 3em;
+					border-style: solid;
+					margin: auto;
+					margin-bottom: 2em;
+					display: block;
+					/*float: right;*/
+				}
+				.comecdr select{
+					width: 61%;
+					min-height: 3em;
+					border-style: solid;
+					margin: auto;
+
+					display: block;
+					/*float: right;*/
+					margin-bottom: 2em;
+				}
+
+				.message {
+					height: 10em;
+				}
+				
+				
+				
+
+
+
+
+
+			
+
