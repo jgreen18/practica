@@ -938,7 +938,7 @@
 				.comec{
 					width: 90%;
 					min-height: 3em;
-					border-style: solid;
+					/*border-style: solid;*/
 					margin: auto;
 					margin-top: 3em;
 				}
@@ -947,7 +947,7 @@
 
 					width: 35%;
 					min-height: 3em;
-					border-style: solid;
+					/*border-style: solid;*/
 					margin: auto;
 					display: inline-block;
 					float: left;
@@ -961,7 +961,7 @@
 				.comecdr{
 					width: 60%;
 					min-height: 3em;
-					border-style: solid;
+					/*border-style: solid;*/
 					margin: auto;
 
 					display: inline-block;
